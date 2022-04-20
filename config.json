@@ -1,0 +1,9 @@
+{
+	"ip":"Galaxy1879.aternos.me:50283",
+	"port": 50283,
+	"name": "afkbot1",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register bugaaa222 bugaaa222",
+	"login-cmd":"/login bugaaa222"
+}
